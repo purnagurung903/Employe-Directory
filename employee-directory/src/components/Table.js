@@ -29,7 +29,7 @@ class employeeTable extends Component {
 
   sort = () => {
     var sortedResult ;
-    if (this.state.sorted == false){
+    if (this.state.sorted === false){
           sortedResult = this.state.results.sort(function (a, b) {
            if (a.name.last < b.name.last) {
              return -1;

@@ -4,8 +4,8 @@
 
 This app helps employers to view their entire employee directory and find out information about them.
 
-### Github repo:
-### Deployed app:
+### Github repo: https://github.com/purnagurung903/Employe-Directory.git
+### Deployed app: https://purnagurung903.github.io/Employe-Directory/
 
 ## Table of Content
 
