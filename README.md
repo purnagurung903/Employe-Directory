@@ -1,5 +1,5 @@
 # Employe-Directory
-
+<img width="1440" alt="Screen Shot 2021-04-10 at 9 04 16 PM" src="https://user-images.githubusercontent.com/69695368/114288984-3608d680-9a42-11eb-93d3-b233be1ea973.png">
 ## Discription
 
 This app helps employers to view their entire employee directory and find out information about them.
